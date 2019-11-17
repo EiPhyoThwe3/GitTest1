@@ -13,3 +13,4 @@ def fib2(n):
 		result.append(a)
 		a, b = b, a+b
 	return result
+
