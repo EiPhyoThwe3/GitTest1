@@ -187,3 +187,10 @@ a = np.floor(10*np.random.random((3, 4)))
 a
 
 a.shape
+
+
+a.ravel()
+a.reshape(6,2)
+a.T
+a.T.shape
+a.shape
